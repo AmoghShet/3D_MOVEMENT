@@ -1,7 +1,3 @@
-Here's the modified README file:
-
----
-
 # 3D Movement Test
 
 This repository contains a set of Python scripts that implement a 3D movement test using Pygame. The project showcases various aspects of 3D graphics, movement, and basic physics.
