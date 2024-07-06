@@ -10,6 +10,7 @@ This repository contains a set of Python scripts that implement a 3D movement te
 - `movement4.py`: Added ability to sprint.
 - `movement5.py`: Added heabobbing.
 - `movement6.py`: Added different headbobs based on walk or sprint.
+- `movement7.py`: Added a headbob for jumping.
 
 ## Features
 
