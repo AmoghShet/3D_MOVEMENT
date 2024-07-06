@@ -37,7 +37,7 @@ pip install pygame
 To run the simulation, simply execute any of the Python scripts. For example:
 
 ```sh
-python movement.py
+python3 movement6.py
 ```
 
 ### Controls
