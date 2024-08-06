@@ -1,6 +1,6 @@
 # 3D Movement Tests
 
-This repository contains a set of Python scripts that implement a 3D movement implementation test using Pygame. The project showcases various aspects of 3D graphics, movement, and basic physics.
+This repository contains a set of Python scripts that implement a 3D movement implementation test using Pygame. The project showcases various aspects of 3D graphics, movement, and basic physics. 
 
 ## Files
 
